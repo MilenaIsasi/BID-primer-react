@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+}
+.App {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    flex-direction: column;
+    font-family: cursive;
+    padding: 10px;
+    margin: 10px;
+}
+
